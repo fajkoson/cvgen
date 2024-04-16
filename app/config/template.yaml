@@ -1,0 +1,47 @@
+name: "Pepa Vopršálek"
+contact:
+  phone: "+420 666 666 666"
+  email: "voprsalek.pepa(at)gmail.com"
+  github: "https://github.com/fajkoson"
+  address: "Jedovnice"
+education:
+  - school: "Fakulta strojního inženýrství | VUT Brno"
+    degree: "Strojní inženýrství"
+    period: "2006 - 2011"
+    degree_level: "bakalář"
+experience:
+  - title: "Programátor / Implementační inženýr"
+    company: "best s.r.o. | Brno"
+    period: "říjen 2017 - březen 2024"
+    details: |
+      Vývoj, konfigurace a implementace skladového systému běžícím na SUSE Linux
+      na Windows R12 s využitím verzovacích systémů CVS/GIT.
+      Konfigurace serverových clusterů s využitím Pacemaker, DRBD.
+      Konfigurace linuxových služeb, síťových prvků, VPN, routování,..
+      Skriptování v bash, python. Programování v PL/SQL.
+  - title: "IT specialista"
+    company: "Peepo | Jedovnice"
+    period: "srpen 2010 - říjen 2017"
+    details: |
+      Výstavba, údržba a provoz bezdrátových a optických sití s využitím 
+      technologií Mikrotik, Alcoma, Motorola. Nastavení, správa a zabezpečení VOIP,
+      kamerových systémů a kabelové televize.
+skills:
+  - "Serverová virtualizace: KVM, libvirt (virt-manager)"
+  - "Monitoring: Nagios"
+  - "Konfigurace služeb a zařízení: DNS, DHCP, SAMBA, NTP, FTP, backup,.."
+  - "Verzovací systémy: CVS/GIT"
+  - "Zkušenosti s VMware:ESXi"
+  - "Technologie pro Linux Cluster: Pacemaker, DRBD"
+  - "Zkušenosti s cloudovými sloužbami Azure"
+  - "Databáze: Oracle, MySql"
+  - "OS: oracle linux, SUSE"
+interests:
+  - "Linux, sítě, python.. další rozvoj v Docker, Kubernetes,.. DevOps stuff"
+languages:
+  - "Němčina - začátečník"
+  - "Angličtina - výborná"
+  - "Čeština - výborná"
+driver:
+  - A - motocykly
+  - B - osobní auta
